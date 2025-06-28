@@ -10,32 +10,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# === VSCode & PyCharm config ===
-.vscode/
-.idea/
-
-# === OS files ===
-.DS_Store
-Thumbs.db
-
-# === Logs & outputs ===
-*.log
-*.out
-
-# === Python virtual environment ===
-venv/
-.env/
-ENV/
-env/
-.venv/
-
-# === Python cache files ===
-__pycache__/
-*.py[cod]
-*$py.class
-
-# === VSCode & PyCharm config ===
-.vscode/
+# === PyCharm config ===
 .idea/
 
 # === OS files ===

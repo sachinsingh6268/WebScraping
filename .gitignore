@@ -1,0 +1,71 @@
+# === Python virtual environment ===
+venv/
+.env/
+ENV/
+env/
+.venv/
+
+# === Python cache files ===
+__pycache__/
+*.py[cod]
+*$py.class
+
+# === VSCode & PyCharm config ===
+.vscode/
+.idea/
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === Logs & outputs ===
+*.log
+*.out
+
+# === Python virtual environment ===
+venv/
+.env/
+ENV/
+env/
+.venv/
+
+# === Python cache files ===
+__pycache__/
+*.py[cod]
+*$py.class
+
+# === VSCode & PyCharm config ===
+.vscode/
+.idea/
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === Logs & outputs ===
+*.log
+*.out
+
+# === Jupyter Notebook checkpoints ===
+.ipynb_checkpoints/
+
+# === Environment files ===
+.env
+*.env
+
+# === Compiled Cython files ===
+*.so
+
+# === MyPy and Pyright cache ===
+.mypy_cache/
+.pyright/
+
+# === Test coverage files ===
+htmlcov/
+.coverage
+coverage.xml
+.cache/
+
+# === Project-specific folders ===
+data/
+__temp__/
